@@ -5,3 +5,4 @@ Repositório de arquivos criados para execução do projeto integrador do curso 
 
 Notebooks:
 1)scraping_imoveis
+2)filtro_empresas_rf
